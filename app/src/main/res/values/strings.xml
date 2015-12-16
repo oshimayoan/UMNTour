@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">UMN Tour</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rear_gate_left">RearGateLeftActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="team">Team</string>
+    <string name="member">Algra Raymond\nKevin Sanjaya\nYoan Pratama Putra</string>
+
+    <string name="button_pressed_color">#000000</string>
+    <string name="button_unpressed_color">#444444</string>
+    <string name="title_activity_medical_center">MedicalCenterActivity</string>
+    <string name="title_activity_rear_medical_center">RearMedicalCenterActivity</string>
+    <string name="title_activity_corridor">CorridorActivity</string>
+    <string name="title_activity_rear_gate_right">RearGateRightActivity</string>
+    <string name="title_activity_lobby_right">LobbyRightActivity</string>
+    <string name="title_activity_lobby_center">LobbyCenterActivity</string>
+    <string name="title_activity_lobby_left">LobbyLeftActivity</string>
+    <string name="title_activity_lift_area">LiftAreaActivity</string>
+    <string name="title_activity_bauk">BaukActivity</string>
+    <string name="title_activity_baak">BaakActivity</string>
+    <string name="title_activity_fh">FhActivity</string>
+    <string name="title_activity_launcher">LauncherActivity</string>
+
+    <string name="help_title">Help</string>
+    <string name="help_content">You can zoom in and zoom out the image by:\n1. Double tap the image, or\n2. Pinch the image with two fingers</string>
+
+    <string name="label_baak">BAAK</string>
+    <string name="label_bauk">Marketing</string>
+    <string name="label_corridor">Corridor</string>
+    <string name="label_fh">Function Hall</string>
+    <string name="label_lift">Lift Area</string>
+    <string name="label_lobby_center">Lobby</string>
+    <string name="label_lobby_left">Information Table</string>
+    <string name="label_lobby_right">Gate to B Building Area</string>
+    <string name="label_main">Rear Gate</string>
+    <string name="label_medical_center">Medical Center</string>
+    <string name="label_rear_gate_left">Front of Medical Center</string>
+    <string name="label_rear_gate_right">End of Corridor</string>
+    <string name="label_rear_medical_center">Back of Medical Center</string>
+</resources>

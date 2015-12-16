@@ -1,0 +1,26 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_centerVertical="true"
+    android:layout_alignParentRight="true">
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnNavRight"
+        android:clickable="true"
+        android:src="@drawable/ic_navigation_black_24dp"
+        android:rotation="90"
+        android:layout_gravity="right"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/lblNavRight"
+        style="@style/navButtonLabelTheme"
+        android:layout_marginRight="@dimen/navigation_label_horizontal"
+        android:layout_marginTop="@dimen/navigation_label_vertical"/>
+
+</LinearLayout>

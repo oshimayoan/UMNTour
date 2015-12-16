@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.umn_11110110122.umntour.RearGateLeftActivity"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/relativeLayout">
+
+        <com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/imgBg" />
+
+        <include layout="@layout/main_menu"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <include layout="@layout/navigation_button_top"/>
+
+            <include layout="@layout/navigation_button_bottom"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</LinearLayout>
+
+
+<!-- From: file:/home/hikk/AndroidStudioProjects/UMNTour/app/src/main/res/layout/activity_rear_gate_left.xml -->

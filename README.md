@@ -8,3 +8,6 @@ UMN Tour is a mobile app which contain images of major locations from 1st floor 
 
 ## Main Feature
 The main feature of this app is image scaling. This feature let the users to zoom in and zoom out the image in the app with one-finger double tap and two-finger pinch, thanks to Subsampling Scale Image View.
+
+## Download
+You can download the .apk file here: [UMNTour-2.1.1.apk](https://github.com/oshimayoan/UMNTour/releases/download/v2.1.1/UMN_Tour-2.1.1.apk)
